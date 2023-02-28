@@ -1,0 +1,1 @@
+these are all virtual console injects for 3ds and wii u, you can either grab the cias from the release tab or from my website where you can just qr code them, or you can grab the source files and build them yourself using NUSI.
